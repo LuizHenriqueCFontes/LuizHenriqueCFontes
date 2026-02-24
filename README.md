@@ -1,4 +1,4 @@
-Olá, eu sou o Luiz Henrique
+Estudando do Senac, no curso Técnico em Desenvolvimento de Sistemas.
 
 ---
 
