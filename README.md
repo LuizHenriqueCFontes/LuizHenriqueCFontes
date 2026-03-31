@@ -1,4 +1,4 @@
-Estudando no Senac, no curso Técnico em Desenvolvimento de Sistemas.
+Estudando do Senac, no curso Técnico em Desenvolvimento de Sistemas.
 
 ---
 
