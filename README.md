@@ -12,3 +12,10 @@ Estudando do Senac, no curso Técnico em Desenvolvimento de Sistemas.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLuizHenriqueCFontes&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueCFontes&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LuizHenriqueCFontes&theme=tokyonight)
