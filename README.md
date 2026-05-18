@@ -2,7 +2,7 @@
 
 🎓 Estudante do Senac no curso Técnico em Desenvolvimento de Sistemas  
 💻 Desenvolvedor Full Stack focado em Spring Boot e React  
-🚀 Aprendendo React, APIs REST e arquitetura back-end  
+🚀 Aprendendo React e arquitetura back-end  
 📚 Sempre buscando evoluir e construir projetos práticos
 
 ---
