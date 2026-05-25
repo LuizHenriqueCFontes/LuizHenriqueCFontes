@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz Henrique 👋
+# Olá, eu sou o Luiz Henrique 👋
 
 🎓 Estudante do Senac no curso Técnico em Desenvolvimento de Sistemas  
 💻 Desenvolvedor Full Stack focado em Spring Boot e React  
